@@ -1,5 +1,5 @@
 Project Background:
-In this project we examined wether a non-structured classifier yields a better accuarcy then a structured classifier (HMM) in
+In this project we examined whether a non-structured classifier yields a better accuarcy then a structured classifier (HMM) in
 the task of classifying basketball shots.
 The project is divided into 3 parts.
 
